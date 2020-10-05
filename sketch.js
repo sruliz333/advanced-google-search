@@ -84,7 +84,7 @@ function addInput(e){
   div1.html(value);
   
   
-  selector.selected('---Select One---');
+  selector.selected('--- Select ---');
 }
 
 function draw() {
